@@ -17,5 +17,3 @@ Nama saya Zhyllan Fyllah. Saya adalah seorang siswa Teknik Komputer dan Jaringan
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jirankun&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
