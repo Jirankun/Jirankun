@@ -57,25 +57,21 @@ My interests span **mobile network penetration**, **web development**, and **app
 
 ---
 
-### 📊 GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jirankun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jirankun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jirankun&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&include_all_commits=true&count_private=true" height="170em"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Jirankun&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jirankun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-## 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Jirankun&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
