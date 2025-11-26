@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Zhyllan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=TKJ%20Student%20|%20Web%20%26%20App%20Dev%20|%20Linux%20Enthusiast&descSize=27&descAlignY=85&section=header" />
-
 I'm Zhyllan Fyllah, a Computer and Network Engineering (TKJ) student at SMK N 1 Lembah Melintang.  
 I'm actively involved in the **LINUX UBUNTU Indonesia** and **Nusantara Project ROM** communities.  
 My interests span **mobile network penetration**, **web development**, and **application development**.
