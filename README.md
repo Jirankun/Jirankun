@@ -75,6 +75,12 @@ My interests span **web development** and **android application development**.
 [![](https://visitcount.itsvg.in/api?id=Jirankun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jirankun/Jirankun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jirankun/Jirankun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jirankun/Jirankun/output/pacman-contribution-graph.svg">
+</picture>
+---
 
 ## ✍️ Random Dev Quote
 <p align="center">
