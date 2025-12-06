@@ -14,7 +14,7 @@ My interests span web development and android application development.
 
 ## 💻 GitHub Stats 💻
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jirankun&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirankun&theme=vue&hide_border=false" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirankun&theme=vue&hide_border=false" align="left" />
 
 
 ## ⚡ GitHub Trophies ⚡
