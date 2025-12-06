@@ -1,4 +1,3 @@
----
 <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zhyllan+Fyllah....;Nice+to+meet+you!&size=30" size="30"></h1>
 
 
