@@ -1,6 +1,6 @@
 I'm Zhyllan Fyllah, a Computer and Network Engineering (TKJ) student at SMK N 1 Lembah Melintang.  
 I'm actively involved in the **LINUX UBUNTU Indonesia** and **Nusantara Project ROM** communities.  
-My interests span **mobile network penetration**, **web development**, and **application development**.
+My interests span **web development**, and **android application development**.
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
