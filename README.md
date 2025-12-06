@@ -1,92 +1,28 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zhyllan+Fyllah....;Nice+to+meet+you!&size=30" size="30"></h1>
 
-###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,kotlin,csharp,mysql,sqlite" height="60" alt="skills logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github,git,linux,vscode,firebase,cloudflare,arduino,cisco,unity,powershell" height="60" alt="tools logo" />
-</div>
 
-###
+[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jirankun) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhyllan-fyllah-56b45a38a/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zirankun)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-</div>
 
----
+I'm Zhyllan Fyllah, a Computer and Network Engineering (TKJ) student at SMK N 1 Lembah Melintang.
+I'm actively involved in the LINUX UBUNTU Indonesia and Nusantara Project ROM communities.
+My interests span web development and android application development.
 
-### 👨‍💻 About Me  
+## 🔥 Tech Stack 🔥
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=C#&logoColor=white) ![](https://img.shields.io/badge/Dotnet-512BD4?style=flat-square&logo=.NET&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
-I'm **Zhyllan Fyllah**, a Computer and Network Engineering (TKJ) student at **SMK N 1 Lembah Melintang**.  
-I'm actively involved in the **LINUX UBUNTU Indonesia** and **Nusantara Project ROM** communities.  
-My interests span **web development** and **android application development**.  
+## 💻 GitHub Stats 💻
 
-💡 *“Crafting logic and elegance in every line of code.”*
+<img src="https://github-readme-stats.vercel.app/api?username=Jirankun&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirankun&theme=vue&hide_border=false" align="left" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
----
+## ⚡ GitHub Trophies ⚡
+![](https://github-profile-trophy.vercel.app/?username=Jirankun&theme=vue&no-frame=false&no-bg=true&margin-w=4)
+    
 
-<div align="center">
-  <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /></picture>
-</div>
+## 🚀 Top Repositories 🚀
+![](https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=vue&combine_all_yearly_contributions=true)
+    
 
----
-
-### 📬 Connect with Me  
-
-<p align="center">
-  <a href="mailto:zhyllanf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/zhyllan-fyllah-56b45a38a/">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://instagram.com/zirankun">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jirankun">
-    <img src="https://komarev.com/ghpvc/?username=Jirankun&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Jirankun">
-    <img src="https://img.shields.io/github/followers/Jirankun?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jirankun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jirankun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jirankun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Jirankun&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋&fontSize=25&fontColor=61DAFB&animation=twinkling" />
-</div>
+<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
