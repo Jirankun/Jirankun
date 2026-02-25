@@ -32,13 +32,7 @@ I enjoy creating clean UI, optimizing performance, and implementing practical we
 
 ### 📱 Hybrid & Mobile Web
 
-![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
-
-![](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-
-![](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-
-![](https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white)
+![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)![](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)![](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)![](https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white)
 
 ---
 
