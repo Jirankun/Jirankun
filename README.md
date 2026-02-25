@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Frontend Web Developer focused on building modern, responsive, and scalable web applications using **Next.js** and **React**.
+I’m a Frontend Web Developer focused on building **static websites** and **static Frontend Web Applications (FWA)** using **Next.js** and **React**.
 
-I enjoy creating clean UI, optimizing performance, and implementing practical web features for real-world use cases.
+I enjoy creating structured layouts, reusable components, and responsive user interfaces for web-based projects.
 
 ---
 
@@ -32,21 +32,21 @@ I enjoy creating clean UI, optimizing performance, and implementing practical we
 
 ### 📱 Hybrid & Mobile Web
 
-![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black) ![](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![](https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white)
+![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)  
+![](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)  
+![](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)  
+![](https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white)
 
 ---
 
-## 🌐 Web Features I Work With
+## 🌐 What I Build
 
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- API Routes
-- Authentication & Authorization
-- Responsive Design
-- REST API Integration
-- Component-based Architecture
-- Performance Optimization
-- SEO Optimization
+- Static websites  
+- Static Frontend Web Applications (FWA)  
+- Responsive layouts  
+- Component-based UI  
+- Basic routing (Next.js)  
+- UI implementation from design  
 
 ---
 
