@@ -18,6 +18,7 @@ I enjoy creating clean UI, optimizing performance, and implementing practical we
 
 ## 🚀 Tech Stack
 
+### 🌐 Core Web
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,6 +27,18 @@ I enjoy creating clean UI, optimizing performance, and implementing practical we
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📱 Hybrid & Mobile Web
+
+![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
+
+![](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+
+![](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+
+![](https://img.shields.io/badge/Framework7-EE350F?style=flat-square&logo=framework7&logoColor=white)
 
 ---
 
