@@ -1,7 +1,3 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zhyllan+Fyllah;Next.js+%26+React+Developer&size=30" size="30">
-</h1>
-
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jirankun)
 [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhyllan-fyllah-56b45a38a/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zirankun)
