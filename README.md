@@ -62,4 +62,4 @@ I enjoy creating structured layouts, reusable components, and responsive user in
 ---
 ## Osu! Statistics
 
-![osu! signature card](https://osu-sig.s23.moe/card?user=Zhykun&mode=std&lang=en&blur=6&round_avatar=true&animation=true&skills=true)
+[img]https://osu-sig.vercel.app/card?user=Zhykun&mode=std&lang=en&blur=6&round_avatar=true&animation=true&skills=true[/img]
