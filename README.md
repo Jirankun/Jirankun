@@ -60,3 +60,6 @@ I enjoy creating structured layouts, reusable components, and responsive user in
 ![](https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
+## Osu! Statistics
+
+![osu! signature card](https://osu-sig.s23.moe/card?user=Zhykun&mode=std&lang=en&blur=6&round_avatar=true&animation=true&skills=true)
