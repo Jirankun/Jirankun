@@ -62,4 +62,4 @@ I enjoy creating structured layouts, reusable components, and responsive user in
 ---
 ## Osu! Statistics
 
-! []http://lemmmy.pw/osusig/sig.php?colour=pink&uname=Zhykun&pp=1&countryrank&flagshadow&flagstroke&darktriangles&opaqueavatar&rankedscore&onlineindicator=undefined&xpbar&xpbarhex[]
+![](http://lemmmy.pw/osusig/sig.php?colour=pink&uname=Zhykun&pp=1&countryrank&flagshadow&flagstroke&darktriangles&opaqueavatar&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
