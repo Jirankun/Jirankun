@@ -1,102 +1,114 @@
-<h1 align="center">Hi, I'm Zhyllan Fyllah 👋</h1>
-
-<p align="center">
-  <strong>Frontend Web Developer</strong> · Next.js & React Specialist
-</p>
-
-<p align="center">
+<h1 align="center">Hi, I'm Zhyllan Fyllah 👋</h1><p align="center">
+  <strong>Student Developer</strong> · TKJ Student · Open Source Enthusiast 🚀
+</p><p align="center">
   <a href="https://github.com/Jirankun">
     <img src="https://img.shields.io/badge/GitHub-Jirankun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-</p>
+</p>---
+
+👨‍🎓 About Me
+
++ Student at SMKN 1 Lembah Melintang
++ Majoring in Teknik Komputer dan Jaringan (TKJ)
++ Passionate about Web Development and Mobile Development
++ Experienced with Git, GitHub, HTML, CSS, JavaScript, Tailwind CSS, and Next.js
++ Building Android apps using Kotlin and Gradle
++ Developing cross-platform applications with Flutter
++ Linux Mint user and open-source enthusiast
++ Always learning, experimenting, and building projects
 
 ---
 
-## 👨‍💻 About Me
+🚀 Tech Stack
 
-```diff
-+ I'm a Frontend Web Developer focused on building static websites and static Frontend Web Applications (FWA)
-+ Using Next.js and React for scalable, performant UIs
-+ Passionate about structured layouts, reusable components, and responsive design
-```
+🌐 Web Development
 
----
+<div align="center">"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"TailwindCSS" (https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+"Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 🚀 Tech Stack
+</div>📱 Mobile Development
 
-### 🌐 Core Web
+<div align="center">"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+"Gradle" (https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<div align="center">
+</div>🛠 Tools & Platforms
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Android Studio" (https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+"VSCodium" (https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 
-</div>
+</div>🖥️ Development Environment
 
-### 📱 Hybrid & Mobile Web
+<div align="center">"Linux Mint" (https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-<div align="center">
+</div>---
 
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Framework7](https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=white)
-</div>
+🌟 What I Build
 
----
+Web:
+  - Responsive Websites
+  - Landing Pages
+  - Portfolio Websites
+  - Frontend Applications with Next.js
 
-## 🌐 What I Build
+Mobile:
+  - Android Applications with Kotlin
+  - Flutter Cross-Platform Apps
 
-```yaml
-- Static Websites: Landing pages, portfolios, documentation sites
-- Static FWA: Frontend Web Apps with Next.js/React, no backend dependency
-- Responsive UI: Mobile-first, adaptive layouts, accessibility-aware
-- Component System: Reusable, modular, documented components
-- Design Implementation: Figma/Adobe XD to pixel-perfect code
-- Basic Routing: Next.js file-based routing, dynamic params, nested routes
-```
+Other:
+  - School Projects
+  - Open Source Learning Projects
+  - UI Development with Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+💻 Development Setup
 
-<div align="center">
+Operating System:
+  - Linux Mint
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jirankun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+Editors:
+  - VSCodium
+  - Android Studio
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jirankun&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+Version Control:
+  - Git
+  - GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🚀 Top Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jirankun&limit=5&theme=vue&combine_all_yearly_contributions=true)
-
-</div>
+Languages:
+  - HTML
+  - CSS
+  - JavaScript
+  - Kotlin
+  - Dart
 
 ---
 
-## 🎵 Osu! Statistics
+📊 GitHub Stats
 
-<div align="center">
+<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Jirankun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Osu! Stats](http://lemmmy.pw/osusig/sig.php?colour=pink&uname=Zhykun&pp=1&countryrank&flagshadow&flagstroke&darktriangles&opaqueavatar&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
+"GitHub Streak" (https://streak-stats.demolab.com?user=Jirankun&theme=dark&hide_border=true)
 
-</div>
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&theme=dark&hide_border=true&layout=compact)
+
+</div>---
+
+🚀 Goals
+
+Current Focus:
+  - Improving Next.js skills
+  - Learning advanced Kotlin development
+  - Building more Flutter applications
+  - Contributing to open source projects
 
 ---
+
 <p align="center">
-  <sup>✨ Built with ❤️ and Next.js · Updated: <em>2026</em></sup>
+  <sup>🚀 Student Developer from Indonesia • Powered by Linux Mint & Open Source</sup>
 </p>
