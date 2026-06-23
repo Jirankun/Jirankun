@@ -69,12 +69,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhyllanfyllah&show_icons=true&theme=radical" alt="Zhyllan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jirankun&show_icons=true&theme=radical" alt="Zhyllan Fyllah's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhyllanfyllah&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirankun&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
-*(Note: Replace `zhyllanfyllah` with your actual GitHub username if different)*
 
 ---
 
