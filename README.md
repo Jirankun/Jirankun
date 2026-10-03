@@ -11,12 +11,11 @@
 </p>
 
 🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
-*Passionate about Web & Mobile Development, Open-Source Enthusiast, and a proud Linux Mint user.*
+*Passionate about Web & Mobile Development, Open-Source Enthusiast.*
 
 ### 💫 About Me
 - 👨‍💻 **Current Focus:** Crafting clean interfaces and exploring mobile development ecosystem.
 - 🎓 **Education:** Vocational High School Student majoring in TKJ (Teknik Komputer & Jaringan).
-- 🐧 **OS Layout:** Doing everything inside a customized **Linux Mint** environment.
 - 💡 **Philosophy:** Always learning, experimenting, and building impactful projects.
 - ⚡ **Fun Fact:** Transitioning seamlessly between modern web frameworks and native Android code.
 
