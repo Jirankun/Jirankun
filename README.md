@@ -4,7 +4,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jirankun&color=41b883&style=flat&label=Profile+Views" alt="Profile Views" />
   <a href="https://github.com/jirankun">
     <img src="https://img.shields.io/github/followers/jirankun?label=Followers&style=flat&color=238636" alt="Followers" />
   </a>
