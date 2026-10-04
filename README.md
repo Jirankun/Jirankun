@@ -55,14 +55,18 @@
 Open to collaboration! Feel free to contact me or explore my socials. Ready to help and contribute to your projects😊
 
 <p align="left">
-  <a href="https://instagram.com/jirankun_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://x.com/jirankun_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" alt="X"/>
-  </a>
-
+<a href="https://zhyllanfyllah.my.id/open?mail" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://zhyllanfyllah.my.id/open?wa" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://zhyllanfyllah.my.id/open?ig" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://zhyllanfyllah.my.id/open?x" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="X"/>
+</a>
   <a href="https://coffe.zhyllanfyllah.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
