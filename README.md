@@ -12,15 +12,16 @@
 🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
 *Passionate about Web & Mobile Development, Open-Source Enthusiast.*
 
-### 💫 About Me
+### About Me
 - 👨‍💻 **Current Focus:** Crafting clean interfaces and exploring mobile development ecosystem.
 - 🎓 **Education:** Vocational High School Student majoring in TKJ (Teknik Komputer & Jaringan).
 - 💡 **Philosophy:** Always learning, experimenting, and building impactful projects.
 - ⚡ **Fun Fact:** Transitioning seamlessly between modern web frameworks and native Android code.
+- 💻 **Operating System:** Using Linux CachyOS as daily operating system and really like Arch Linux
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Web Development:**
 
@@ -32,10 +33,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro" alt="My GitHub Stats" />
+</div>
+
+### Commit Stats
+
+<div align="center">
+  <a href="https://commit-history.com/Jirankun">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Jirankun?theme=dark" />
+      <img alt="Jirankun's commit history" src="https://commit-history.com/embed/Jirankun" />
+    </picture>
+  </a>
 </div>
 
 ---
@@ -49,7 +61,7 @@
   </p>
 </div>
 
-### 🤝 Connect With Me
+### Connect With Me
 
 Open to collaboration! Feel free to contact me or explore my socials. Ready to help and contribute to your projects😊
 
