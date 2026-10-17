@@ -17,7 +17,7 @@
 - 🎓 **Education:** Vocational High School Student majoring in TKJ (Teknik Komputer & Jaringan).
 - 💡 **Philosophy:** Always learning, experimenting, and building impactful projects.
 - ⚡ **Fun Fact:** Transitioning seamlessly between modern web frameworks and native Android code.
-- 💻 **Operating System:** Using Linux CachyOS as daily operating system and really like Arch Linux
+- 💻 **Operating System:** Using Linux CachyOS as daily operating system and really like Arch Linux.
 
 ---
 
