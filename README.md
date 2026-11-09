@@ -29,14 +29,14 @@
 
 **Mobile & Environment:**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Vscodium](https://img.shields.io/badge/VSCodium-007ACC?style=flat&logo=vscodium&logoColor=white) ![CachyOS](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/all/cachyos_badge.svg) ![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat&logo=cloudflare&logoColor=white)
+![Kotlin](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/kotlin.svg) ![Compose](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/jetpackcompose.svg) ![Android](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/android.svg) ![Gradle](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/gradle.svg) ![Androidstudio](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/android_studio.svg) ![Github](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/github.svg) ![Git](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/git.svg) ![Code-OSS](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/codeoss_badge.svg) ![CachyOS](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/all/cachyos_badge.svg) ![Cloudflare](https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/badge/cloudflare.svg)
 
 ---
 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro" alt="My GitHub Stats" />
+  <img width="700" src="https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro" alt="Zhyllan Fyllah Commit stats" />
 </div>
 
 ### Commit Stats
@@ -45,7 +45,7 @@
   <a href="https://commit-history.com/Jirankun">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Jirankun?theme=dark" />
-      <img alt="Jirankun's commit history" src="https://commit-history.com/embed/Jirankun" />
+      <img alt="Zhyllan Fyllah Commit History" src="https://commit-history.com/embed/Jirankun" />
     </picture>
   </a>
 </div>
@@ -53,10 +53,8 @@
 ---
 ### Anime State
 <div align="center">
-  <a href="https://github.com/Jirankun">
-    <img src="https://img.anili.st/user/7703948" width="500" alt="Anilist Anime Banner"/>
+    <img src="https://img.anili.st/user/7703948" width="253" alt="Anilist Anime Banner"/>
   </a>
-  <a href="https://malsignature.com">
   <img src="https://malsignature.com/?/view?username=JiRuNeKo&style=normal">
   </p>
 </div>
