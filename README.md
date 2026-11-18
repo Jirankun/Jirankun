@@ -67,7 +67,7 @@ Open to collaboration! Feel free to contact me or explore my socials. Ready to h
 <a href="https://zhyllanfyllah.my.id/open?mail" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://zhyllanfyllah.my.id/open?ig" target="_blank">
+<a href="https://instagram.com/jirankun_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://x.com/jirankun_dev" target="_blank">
